@@ -59,8 +59,8 @@ Installation
 
 Clone the repository and navigate to its directory:
 
-git clone https://github.com/yourusername/ip-recon-tools.git
-cd ip-recon-tools
+git clone https://github.com/pixelbrow720/ip_toolkit.git
+cd ip_toolkit
 
 Ensure that the repository structure includes:
 
